@@ -14,6 +14,3 @@ This simple Python script calculates timesheets my part-time work at Code Ninjas
 
 8. timesheet output shown on terminal.
 ![alt text](https://github.com/edward-mike/timesheet-calc/blob/main/screenshot.PNG?raw=true)
-
-
-The script will calculate your total hours worked and display them at the end.
