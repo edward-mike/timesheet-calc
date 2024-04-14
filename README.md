@@ -19,6 +19,4 @@ The script will calculate your total hours worked and display them at the end.
 This script assumes a standard workweek from Monday to Saturday.
 ## Author
 
-- Author : [Edward Mike](https://www.github.com/octokatherine)
-- University : [University of Stirling](https://www.stir.ac.uk/) 
-
+- Author : Edward Mike
