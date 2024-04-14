@@ -17,7 +17,3 @@ This simple Python script calculates timesheets my part-time work at Code Ninjas
 
 
 The script will calculate your total hours worked and display them at the end.
-
-## Note
-
-This script assumes a standard workweek from Monday to Saturday.
